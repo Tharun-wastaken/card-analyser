@@ -1,4 +1,4 @@
-# Design System: Read the Table
+# Design System: Card Analyser
 
 A `stitch-design-taste` system doc for the playing-card classifier interface.
 This is the single source of truth for the visual language. Every screen should

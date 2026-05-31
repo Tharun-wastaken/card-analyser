@@ -1,4 +1,4 @@
-# Read the Table
+# Card Analyser
 
 Drop a photo of a playing card. The model names the suit and rank.
 

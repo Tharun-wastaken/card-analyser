@@ -57,7 +57,7 @@ function Header({ status, tab, setTab }) {
             <span className="font-mono text-xs font-bold text-crimson-400">A&#9830;</span>
           </div>
           <div className="leading-none">
-            <div className="text-sm font-semibold tracking-tight text-chalk">Read the Table</div>
+            <div className="text-sm font-semibold tracking-tight text-chalk">Card Analyser</div>
             <Caption className="mt-1 block">Card Vision System</Caption>
           </div>
         </div>
@@ -178,7 +178,7 @@ function Footer() {
   return (
     <footer className="flex flex-wrap items-center justify-between gap-3 border-t border-rule py-6">
       <Caption>EfficientNet-B0 · 53 Classes · Playing Cards Dataset</Caption>
-      <Caption>Read the Table — Card Vision System</Caption>
+      <Caption>Card Analyser — Card Vision System</Caption>
     </footer>
   );
 }
